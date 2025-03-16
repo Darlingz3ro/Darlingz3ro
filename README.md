@@ -1,4 +1,5 @@
-## Hi there 👋
+### ![image](https://github.com/user-attachments/assets/a7b2b0e4-fbe8-46ed-9c8b-fbe7352e057a)
+
 
 <!--
 **Darlingz3ro/Darlingz3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
